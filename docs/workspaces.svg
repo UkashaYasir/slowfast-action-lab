@@ -1,0 +1,67 @@
+<svg width="1280" height="780" viewBox="0 0 1280 780" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="780" rx="28" fill="#0B1020"/>
+  <rect x="24" y="24" width="1232" height="732" rx="22" fill="#0F172A"/>
+
+  <rect x="56" y="56" width="1168" height="70" rx="18" fill="#111827" stroke="white" stroke-opacity="0.08"/>
+  <rect x="86" y="78" width="152" height="28" rx="14" fill="#7C3AED"/>
+  <text x="113" y="98" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">NeuralVision AI</text>
+  <rect x="268" y="76" width="118" height="32" rx="16" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.5"/>
+  <text x="302" y="97" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Analysis</text>
+  <rect x="398" y="76" width="136" height="32" rx="16" fill="#0F172A" stroke="#22C55E" stroke-opacity="0.5"/>
+  <text x="435" y="97" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Training Lab</text>
+  <rect x="1034" y="76" width="152" height="32" rx="16" fill="#111827" stroke="white" stroke-opacity="0.12"/>
+  <text x="1071" y="97" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Send Messages</text>
+
+  <rect x="56" y="150" width="728" height="568" rx="20" fill="#111827" stroke="white" stroke-opacity="0.08"/>
+  <text x="88" y="192" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Analysis Workspace</text>
+  <text x="88" y="222" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="18">Upload clips, record webcam video, inspect predictions, and review confidence.</text>
+
+  <rect x="88" y="252" width="664" height="228" rx="18" fill="#0F172A" stroke="#A78BFA" stroke-opacity="0.28"/>
+  <rect x="112" y="276" width="280" height="156" rx="16" fill="#1E293B"/>
+  <path d="M220 334L196 374H244L220 334Z" fill="#94A3B8"/>
+  <rect x="424" y="276" width="304" height="40" rx="14" fill="#131C31"/>
+  <text x="446" y="301" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Prediction: clap</text>
+  <rect x="424" y="328" width="304" height="24" rx="12" fill="#1F2937"/>
+  <rect x="424" y="328" width="212" height="24" rx="12" fill="#7C3AED"/>
+  <text x="424" y="370" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="15">Top confidence</text>
+  <text x="632" y="370" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">71.2%</text>
+  <rect x="424" y="392" width="304" height="24" rx="12" fill="#1F2937"/>
+  <rect x="424" y="392" width="168" height="24" rx="12" fill="#38BDF8"/>
+  <text x="424" y="434" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="15">Top-2 separation</text>
+  <text x="632" y="434" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">18.5%</text>
+
+  <rect x="88" y="502" width="316" height="184" rx="18" fill="#0F172A" stroke="white" stroke-opacity="0.08"/>
+  <text x="112" y="538" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">History</text>
+  <rect x="112" y="558" width="268" height="34" rx="12" fill="#131C31"/>
+  <rect x="112" y="602" width="268" height="34" rx="12" fill="#131C31"/>
+  <rect x="112" y="646" width="268" height="18" rx="9" fill="#1E293B"/>
+
+  <rect x="424" y="502" width="328" height="184" rx="18" fill="#0F172A" stroke="white" stroke-opacity="0.08"/>
+  <text x="448" y="538" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Explanation</text>
+  <text x="448" y="578" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="16">The model predicts clapping based on repeated</text>
+  <text x="448" y="604" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="16">hand convergence and upper-body motion.</text>
+  <rect x="448" y="634" width="186" height="30" rx="15" fill="#111827" stroke="#38BDF8" stroke-opacity="0.45"/>
+  <text x="478" y="654" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Confidence-aware output</text>
+
+  <rect x="816" y="150" width="408" height="270" rx="20" fill="#111827" stroke="white" stroke-opacity="0.08"/>
+  <text x="848" y="192" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Training Lab</text>
+  <text x="848" y="222" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="18">Track pilot runs, logs, metrics, and manual promotion.</text>
+  <rect x="848" y="254" width="344" height="64" rx="16" fill="#0F172A"/>
+  <text x="872" y="282" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Current production model</text>
+  <text x="872" y="302" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="15">SlowFast R50 (Kinetics-400)</text>
+  <rect x="848" y="336" width="164" height="56" rx="16" fill="#0F172A"/>
+  <rect x="1028" y="336" width="164" height="56" rx="16" fill="#0F172A"/>
+  <text x="870" y="360" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">Best val accuracy</text>
+  <text x="870" y="382" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">90.0%</text>
+  <text x="1050" y="360" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14">Test accuracy</text>
+  <text x="1050" y="382" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">95.0%</text>
+
+  <rect x="816" y="444" width="408" height="274" rx="20" fill="#111827" stroke="white" stroke-opacity="0.08"/>
+  <text x="848" y="486" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Chat and Review</text>
+  <text x="848" y="516" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="18">Ask follow-up questions, inspect history, and export local runs.</text>
+  <rect x="848" y="548" width="344" height="54" rx="16" fill="#0F172A"/>
+  <text x="872" y="580" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="17">Why was this prediction uncertain?</text>
+  <rect x="848" y="618" width="344" height="28" rx="14" fill="#1F2937"/>
+  <rect x="848" y="660" width="216" height="32" rx="16" fill="#111827" stroke="#22C55E" stroke-opacity="0.5"/>
+  <text x="888" y="681" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Grounded in recent analyses</text>
+</svg>

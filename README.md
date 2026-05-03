@@ -20,6 +20,18 @@
 
 ---
 
+## At a Glance
+
+| Strength | Why it matters |
+| --- | --- |
+| **End-to-end workflow** | The project covers inference, explainability, history, review, evaluation, and pilot training in one app |
+| **Confidence-aware behavior** | Weak predictions are held back as `uncertain` instead of being shown as false certainty |
+| **Training Lab included** | The repo demonstrates not only prediction, but also how the model can improve over time |
+
+## Workspace Preview
+
+![NeuralVision AI Workspace Preview](docs/workspaces.svg)
+
 ## Overview
 
 This project is built as an end-to-end local AI workflow rather than a single-script demo.
@@ -40,6 +52,13 @@ This project is built as an end-to-end local AI workflow rather than a single-sc
 | **History & Review** | Stores recent analyses, creates thumbnails, and keeps clips available for later human review |
 | **Evaluation** | Runs local benchmark-style evaluation from a labeled JSONL manifest |
 | **Training Lab** | Trains a small five-class pilot model, tracks runs, metrics, logs, and checkpoint promotion |
+
+## Why This Repo Feels Complete
+
+- It is a usable local product, not just a notebook or isolated inference script
+- It keeps the production-style analysis flow separate from the experimental training flow
+- It includes honest guardrails around uncertainty and model limitations
+- It leaves a clean path toward reviewed data and future fine-tuning
 
 ## System Architecture
 
