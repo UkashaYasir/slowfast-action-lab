@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment files
+.env
+.env.local
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime logs
+*.log
+data/runtime_logs/
+
+# Local runtime data
+data/buffer/
+data/uploads/
+data/model_cache/
+data/thumbnails/
+data/buffer_test/
+data/analysis_history.jsonl
+data/chat_history.json
+data/local_settings.json
+data/evaluation/manifest.jsonl
+data/evaluation/reports/
+data/training_lab/basic_actions_dataset/
+data/training_lab/runs/
+
+# Future local datasets and checkpoints
+datasets/reviewed/manifest.jsonl
+models/checkpoints/
+
+# Optional local vendor checkout
+SlowFast/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

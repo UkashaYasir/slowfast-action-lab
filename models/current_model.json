@@ -1,0 +1,22 @@
+{
+  "current_model": {
+    "id": "default-pretrained",
+    "name": "SlowFast R50 (Kinetics-400)",
+    "source": "pretrained",
+    "model_type": "slowfast_kinetics400",
+    "checkpoint_path": null,
+    "selected_at": "2026-05-03T22:13:17.772636+00:00",
+    "notes": "Default production model using PyTorchVideo SlowFast R50."
+  },
+  "available_models": [
+    {
+      "id": "default-pretrained",
+      "name": "SlowFast R50 (Kinetics-400)",
+      "source": "pretrained",
+      "model_type": "slowfast_kinetics400",
+      "checkpoint_path": null,
+      "selected_at": "2026-05-03T20:48:33.181819+00:00",
+      "notes": "Default production model using PyTorchVideo SlowFast R50."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "model_backbone": "slowfast_r50",
+  "dataset_manifest": "datasets/reviewed/manifest.jsonl",
+  "epochs": 10,
+  "batch_size": 4,
+  "notes": "Example scaffold only. Training is not wired yet."
+}
